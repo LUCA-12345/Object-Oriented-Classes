@@ -1,5 +1,4 @@
-//Programmer: Luke Tascone
-//Lab12B
+
 
 #include "Substance.h"
 using namespace std;
